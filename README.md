@@ -45,7 +45,7 @@ pageViews
 | sort by duration desc
 
 
-====================
+
 Build Dashboard Queries
 ====================
 Query 1:
@@ -70,7 +70,7 @@ myResult
 | project-away url1
 
 
-===============
+
 Create Alert Query
 ===============
 let uniqueUsers = pageViews
